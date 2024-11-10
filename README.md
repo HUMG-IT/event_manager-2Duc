@@ -3,8 +3,8 @@
 # Bài kiểm tra giữa kỳ - Bài 1
 - **Môn học:** Phát triển ứng dụng di động đa nền tảng 1
 - **Giảng viên:** GVC.TS. Trần Trung Chuyên
-- **Sinh viên:** 
-- **Mã sinh viên:** 
+- **Sinh viên:** Dương Minh Đức
+- **Mã sinh viên:** 2121050973
 - **Lớp:**
 - **Đề tài:** Xây dựng và kiểm thử ứng dụng Quản lý sự kiện
 
